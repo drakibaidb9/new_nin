@@ -1,0 +1,5 @@
+websocket-client
+Flask
+Gunicorn
+rel
+newrelic
