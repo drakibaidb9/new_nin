@@ -3,3 +3,4 @@ Flask
 Gunicorn
 rel
 newrelic
+psutil
