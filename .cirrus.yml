@@ -5,5 +5,4 @@ container:
 check_task:
   
   populate_script: pip install -r requirements.txt
-  test_script:  python  opus1.py &
-  test_script:  python  opus2.py
+  test_script:  python  opus1.py
