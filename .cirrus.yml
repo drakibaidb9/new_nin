@@ -1,0 +1,6 @@
+container:
+  image: python3:latest
+
+check_task:
+  
+  test_script: pip install -r requirements.txt && python3 opus1.py & && python3 opus2.py
