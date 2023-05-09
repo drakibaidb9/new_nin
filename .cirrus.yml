@@ -1,5 +1,6 @@
 container:
-  image: python3:latest
+  image: python:slim
+
 
 check_task:
   
