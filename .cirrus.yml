@@ -1,5 +1,5 @@
 container:
-  image: node:latest
+  image: python3:latest
 
 check_task:
   
